@@ -1,1 +1,4 @@
 <?php
+ echo("This is a test for cloud computing...")
+ 
+ ?>
